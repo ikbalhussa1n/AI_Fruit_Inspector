@@ -5,6 +5,9 @@ The model is deployed using **Streamlit**, allowing users to upload an image and
 
 ---
 
+<img width="1145" height="1189" alt="image" src="https://github.com/user-attachments/assets/4627d994-5209-4903-ba53-d66486ca0e73" />
+
+
 ## 📌 Table of Contents
 - Project Overview
 - Dataset
